@@ -126,3 +126,7 @@
 - 你所知道的微服务技术栈都有哪些？
 - Eureka 和 Zookeeper 都可以提供服务注册与发现的功能，它们有什么区别？
 - ......
+
+### 电商项目收集
+-   [springboot vue 多租户商城](https://gitee.com/zscat/mallplus)
+-   [springboot vue 多租户商城](https://gitee.com/catshen/zscat_sw)
